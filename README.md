@@ -18,7 +18,7 @@ Para mais informações sobre o Bootcamp de Engenharia de Dados [clique aqui](ht
 
 # Módulos do Bootcamp
 
-### Cloud
+## Cloud
 
 Introdução a redes de computadores
 
@@ -40,7 +40,7 @@ VPC
 
 Introdução ao Machine Learning
 
-### Python
+## Python
 
 Fundamentos de Python
 
@@ -61,7 +61,7 @@ NumPy
 Pyshark
 
 
-### Data
+## Data
 
 Banco de dados SQL
 
@@ -84,7 +84,7 @@ Hadoop
 Spark
 
 
-### Ágil & Soft Skill
+## Ágil & Soft Skill
 
 Metodologias Ágeis
 
@@ -99,7 +99,7 @@ Resiliência
 Gestão de Tempo
 
 
-### Projeto Final
+## Projeto Final
 Trabalho em grupo onde os alunos são divididos em squads de trabalho
 Desenvolvimento de um projeto final, baseado em um desafio estabelecido pelos nossos parceiros, que tem por objetivo aplicar todos os ensinamentos do curso para resolver um problema de negócio real.
 
