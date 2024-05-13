@@ -6,7 +6,7 @@ O país destaca-se, principalmente, na produção de ferro (2º maior explorador
 
 Nesse trabalho, em equipe, trazemos uma visão interessante, aplicando, principalmente, Engenharia e Análise de Dados, num projeto de ponta a ponta.
 
-# Apresentação
+# Apresentação do projeto final
 
 A apresentação final pode ser assistida [clicando aqui](https://drive.google.com/file/d/1WpOGz0puDpvDWFCe7pRHyrhE14z6BuhE/view?usp=sharing)
 
