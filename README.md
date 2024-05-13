@@ -12,7 +12,9 @@ A apresentação final pode ser assistida [clicando aqui](https://drive.google.c
 
 # Mais sobre
 
-Projeto final desenvolvido durante o Bootcamp de Engenharia de Dados na SoulCode. Conheça o trabalho desenvolvido por esta instituição [clicando aqui](https://soulcode.com/)
+Projeto final desenvolvido durante o Bootcamp de Engenharia de Dados na [SoulCode](https://soulcode.com/). Conheça o trabalho desenvolvido por esta instituição
+
+Para mais informações sobre o Bootcamp de Engenharia de Dados [clique aqui]([https://soulcode.com/](https://soulcode.com/curso-engenharia-de-dados))
 
 # Módulos do Bootcamp
 
